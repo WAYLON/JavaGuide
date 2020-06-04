@@ -80,7 +80,7 @@ Github用户如果访问速度缓慢的话，可以转移到[码云](https://git
 - [面试指南](#面试指南)
 - [Java学习常见问题汇总](#java学习常见问题汇总)
 - [资源](#资源)
-    - [书单推荐](#书单推荐)
+    - [Java程序员必备书单](#java程序员必备书单)
     - [实战项目推荐](#实战项目推荐)
 - [待办](#待办)
 - [说明](#说明)
@@ -381,9 +381,9 @@ SSO(Single Sign On)即单点登录说的是用户登陆多个子系统的其中�
 
 ## 资源
 
-### 书单推荐
+### Java程序员必备书单
 
-- **[Java程序员必备书单](docs/books/java.md)**
+1. [「基础篇」Guide的Java后端书架来啦！都是Java程序员必看的书籍？](./docs/books/java基础篇.md)
 
 ### 实战项目推荐
 
@@ -437,11 +437,11 @@ Markdown 格式参考：[Github Markdown格式](https://guides.github.com/featur
 
 下面是笔主收集的一些对本仓库提过有价值的pr或者issue的朋友，人数较多，如果你也对本仓库提过不错的pr或者issue的话，你可以加我的微信与我联系。下面的排名不分先后！
 
-<a href="https://github.com/fanofxiaofeng">
-    <img src="https://avatars0.githubusercontent.com/u/3983683?s=460&v=4" width="45px">
-</a>
 <a href="https://github.com/LiWenGu">
     <img src="https://avatars0.githubusercontent.com/u/15909210?s=460&v=4" width="45px">
+</a>
+<a href="https://github.com/fanofxiaofeng">
+    <img src="https://avatars0.githubusercontent.com/u/3983683?s=460&v=4" width="45px">
 </a>
 <a href="https://github.com/fanchenggang">  
     <img src="https://avatars2.githubusercontent.com/u/8225921?s=460&v=4" width="45px">
